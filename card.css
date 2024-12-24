@@ -37,7 +37,7 @@ margin-right: 16px;}
 input:hover{border-color: rgb(122, 6, 157);}
 
 .card{
-background-image: url('images/bg-card-front.png');
+background-image: url('bg-card-front.png');
 height: 140px;
 width: 340px;
 background-repeat: no-repeat;
@@ -62,7 +62,7 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 img{margin-bottom: 25px;}
 
 .card2{
-background-image: url("images/bg-card-back.png");
+background-image: url("bg-card-back.png");
 height: 230px;
 width: 430px;border-top-left-radius: 20px;
 border-bottom-left-radius: 20px;
